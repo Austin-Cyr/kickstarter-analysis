@@ -11,6 +11,7 @@ Louisa would like help identifying how to ensure her Kickstart Compaingn success
 - bullet
 ---
 1 bullet
-![image_name](path/to/image_name.png)
+---
+![Outcomes Based on Launch Date](Outcomes Based on Launch Date.png)
 
 [filename](path/to/filename.xlxs)
