@@ -12,6 +12,7 @@ Louisa would like help identifying how to ensure her Kickstart Compaingn success
 ---
 1 bullet
 ---
-![Outcomes Based on Launch Date](Outcomes Based on Launch Date.png)
+[Outcomes Image](Outcomes_Based_on_Launch_Date.png)
 
+---
 [Gradebook](GradeBook_Unsolved.xlsx)
